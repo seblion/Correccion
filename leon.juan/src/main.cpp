@@ -24,7 +24,7 @@ int main()
     cout<< "NOMBRE: " << Nombre << endl;
 
     string observador=" ";
-    int jlValidacion = jlValidarUsuario("profe", "1234", "sebastian", "1750269407", observador);
+    int jlValidacion = jlValidarUsuario("profe", "1234", "sebas", "1750269407", observador);
     if(jlValidacion==1){
 
     setTextColor(textColorMagenta);
