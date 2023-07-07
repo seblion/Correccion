@@ -77,13 +77,26 @@ int main () { "return" } //para devolver un valor
 void main () { } //no devuelve valores
 
 ### Condicionales
+```cpp
+ if ()
+ {
+ 
+ }
 
-- if (){ }
+if ()
+{ 
 
-- if (){ } else {}
+} else {
 
-- if (){ } else if () {}
+}
 
+if ()
+{ 
+
+} else if () {
+
+}
+```
 ### bucles
 
 Repetir una accion cierta cantidad de veces o
@@ -183,3 +196,22 @@ iostream //operaciones de entrada y salida en la consola
 
 - cout <<  //para imprimir en consola
 - cin >>   //para obtener los datos del flujo de entrada
+
+### Strings
+
+Los strings son cadenas de caracteres que tienen, las que son más fáciles de 
+### Otras funciones
+- strcpy() //
+
+### try - catch
+Protege cuando hay un error, cuando no funciona algo en el codigo escrito dentro del try, se ejecuta lo que esta en el catch.
+
+```cpp
+try
+{
+
+}catch()
+{
+
+}
+```
