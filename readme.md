@@ -10,8 +10,23 @@
 
 Es un sistema de control de versiones que sirve ampliamente para la gestión de proyectos de programación colaborativos. 
 
-#### Comandos de Git en consola
+#### Uso Git en consola
+- *git init:* Crea un nuevo repositorio Git en el directorio actual.
+- *git add .:* Agrega los archivos modificados y nuevos al area de preparacion.
+- *git commit -m "[mensaje]":* Crea un nuevo commit con los cambios en el area de preparacion se utiliza -m para agregar una descripcion.
+- *git status:* Muestra el estado actual del repositorio, incluyendo los archivos modificados y los commits.
+- *git log:* Muestra el historial de commits en orden cronologico.
+- *git pull:* Obtiene los ultimos cambios desde el repositorio remoto y fusiona esos cambios con la rama actual.
+- *git push:* Envia los commits locales al repositorio remoto.
+- *git branch:* Muestra una lista de todas las ramas en el repositorio y resalta la rama actual.
+- *git merge [rama]:* Fusiona la rama especificada con la rama actual.
 
+#### Rmas del Git
+- Las ramas se utilizan principalmente en proyectos colaborativos.
+- Permiten seguir creando nuevo codigo para diferentes funciones, procesos o caracteristicas del proyecto sin comprometer la rama principal.
+
+  
+![Ramas del Git](https://miro.medium.com/v2/resize:fit:801/1*DhagidpZutkaCmAZobmzDQ.png)
 
 ## VISUAL STUDIO
 
