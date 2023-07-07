@@ -213,9 +213,11 @@ iostream //operaciones de entrada y salida en la consola
 
 ### Strings
 
-Los strings son cadenas de caracteres que tienen, las que son más fáciles de 
-### Otras funciones
-- strcpy() //
+Los strings son cadenas de caracteres (variable) que tienen, las que son más faciles de 
+#### Otras funciones
+- strcpy()  //permite copiar una cadena de caracteres en otra.
+- tolower() // permite cambiar a minuscula un caracter alfabetico.
+- toupper() // permite cambiar a mayuscula un caracter alfabetico.
 
 #### try - catch
 Protege cuando hay un error, cuando no funciona algo en el codigo escrito dentro del try, se ejecuta lo que esta en el catch.
