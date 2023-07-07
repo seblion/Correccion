@@ -1,19 +1,19 @@
 
 # Readme: Anotaciones De Clase Programacion I
 
-## **Nombre: Juan Sebastian Leon Espinosa**
+**Nombre:** Juan Sebastian Leon Espinosa
 
-## **Fecha: 06/07/2023**
+**Fecha:** 06/07/2023
 
 
-### Git
+## Git
 
 Es un sistema de control de versiones que sirve ampliamente para la gestión de proyectos de programación colaborativos. 
 
 #### Comandos de Git en consola
 
 
-### VISUAL STUDIO
+## VISUAL STUDIO
 
 #### atajos del teclado
 
