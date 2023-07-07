@@ -5,6 +5,14 @@
 
 ## **Fecha: 06/07/2023**
 
+
+### Git
+
+Es un sistema de control de versiones que sirve ampliamente para la gestión de proyectos de programación colaborativos. 
+
+#### Comandos de Git en consola
+
+
 ### VISUAL STUDIO
 
 #### atajos del teclado
@@ -77,11 +85,16 @@ int main () { "return" } //para devolver un valor
 void main () { } //no devuelve valores
 
 ### Condicionales
+- if => si lo que esta entre parentesis es verdadero se ejecuta el codigo que se encuentra entre las llaves.
+  
+- else => si lo que estaba entre los parentesis del if es falso se ejecuta el codigo que esta dentro de las llaves a continuacion del else.
+  
 ```cpp
  if ()
  {
  
  }
+
 
 if ()
 { 
@@ -89,6 +102,7 @@ if ()
 } else {
 
 }
+
 
 if ()
 { 
@@ -101,7 +115,7 @@ if ()
 
 Repetir una accion cierta cantidad de veces o
 hasta que se cumpla una condicion
-
+- *for:*
 - for () {}
 
 - while () {}
@@ -203,7 +217,7 @@ Los strings son cadenas de caracteres que tienen, las que son más fáciles de
 ### Otras funciones
 - strcpy() //
 
-### try - catch
+#### try - catch
 Protege cuando hay un error, cuando no funciona algo en el codigo escrito dentro del try, se ejecuta lo que esta en el catch.
 
 ```cpp
@@ -215,3 +229,7 @@ try
 
 }
 ```
+
+#### Throw
+
+Sirve para provocar un error a proposito
